@@ -4,7 +4,7 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=monokai)
 
-### Skills
+### ⌨️Skills
 <div style="display: inline_block"></>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
