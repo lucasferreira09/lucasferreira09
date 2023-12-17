@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CFF7FF&height=120&section=header"/>
 
-<div style="margin-left: 50px; margin-right: 20px;">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2200&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=HI%2C+I'M+LUCAS;I+LOVE+CODING)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
     
@@ -38,4 +34,3 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CFF7FF&height=120&section=footer"/>
-
