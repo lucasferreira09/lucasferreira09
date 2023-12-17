@@ -6,7 +6,7 @@
     
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2200&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=HI%2C+I'M+LUCAS;I+LOVE+CODING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2200&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=HI%2C+I'M+LUCAS!;I+LOVE+CODING!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-ba6678297/)
 <div align="left">
