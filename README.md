@@ -1,14 +1,41 @@
-### 🧑‍💻Sempre praticando
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CFF7FF&height=120&section=header"/>
+
+<div style="margin-left: 50px; margin-right: 20px;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=2200&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=HI%2C+I'M+LUCAS;I+LOVE+CODING)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+    
+<div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-ba6678297/)
+<div align="left">
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=monokai)
+<div>
 
-### ⌨️Skills
-<div style="display: inline_block"></>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</div></br>
+<div align="center">  
 
-😃Fascinado por Computação, Matemática e Tecnologia. 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasferreira09/github-readme-stats#gh-dark-mode-only"> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira09&layout=compact&theme=dark&title_color=E9E1E1FF&icon_color=E9E1E1FF&text_color=c9d1d9&bg_color=0d1117">/>
+</div>
+
+## Tecnologies:
+[![My Skills](https://skillicons.dev/icons?i=java,py&perline=2&theme=light)](https://skillicons.dev)
+
+
+
+## Studying:
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,linux&theme=light)](https://skillicons.dev)
+
+
+<div style="margin-left: 50; margin-right: 20px;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=100&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=COMPUTERS;MATHEMATICS;TECHLOGY)](https://git.io/typing-svg)
+
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CFF7FF&height=120&section=footer"/>
+
