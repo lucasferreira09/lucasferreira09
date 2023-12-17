@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=100&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=COMPUTERS;MATHEMATICS;TECHLOGY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&duration=140&pause=1000&color=00CFF7FF&center=true&random=false&width=435&lines=COMPUTERS;MATHEMATICS;TECHLOGY)](https://git.io/typing-svg)
 
 </div>
 
