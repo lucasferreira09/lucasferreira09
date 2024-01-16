@@ -20,7 +20,7 @@
 </div>
 
 ### Tecnologies:
-[![My Skills](https://skillicons.dev/icons?i=java,py,flutter,androidstudio&perline=4&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,androidstudio&perline=4&theme=light)](https://skillicons.dev)
 
 
 
