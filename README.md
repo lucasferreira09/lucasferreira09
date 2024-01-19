@@ -19,7 +19,7 @@
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira09&layout=compact&title_color=E9E1E1FF&icon_color=00CFF7FF&text_color=c9d1d9&bg_color=0d1117&">
 </div>
 
-### Tecnologies:
+### Technologies:
 [![My Skills](https://skillicons.dev/icons?i=java,py,androidstudio&perline=4&theme=light)](https://skillicons.dev)
 
 
