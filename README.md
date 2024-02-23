@@ -1,13 +1,14 @@
 
 <div align="center">  
-<h1 style="text-align: center; border-bottom: none;"> Hello!😀 Eu sou o Luquinhas!</h2>
-<h1 style="border-bottom: none;"></h2>
+<h2 style="text-align: center; border-bottom: none;"> Hello!😀 Eu sou o Luquinhas!</h2>
+<h2 style="border-bottom: none;"></h2>
 </div>   
 
-<h2>Desenvolvo Aplicativos Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+<h3>Desenvolvo Aplicativos Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
             height="25" 
             width="25"/>
-            <h1 style="text-align: center; border-bottom: none;"></h2>
+            
+<h2 style="text-align: center; border-bottom: none;"></h2>
 
     
 ## Me acompanhe👍
