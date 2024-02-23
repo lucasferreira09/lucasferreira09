@@ -1,7 +1,15 @@
-## **Hello!😀**
 
-Eu sou o **Luquinhas!**
+<div align="center">  
+<h1 style="text-align: center; border-bottom: none;"> Hello!😀 Eu sou o Luquinhas!</h2>
+<h1 style="border-bottom: none;"></h2>
+</div>   
 
+<h2>Desenvolvo Aplicativos Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+            height="25" 
+            width="25"/>
+            <h1 style="text-align: center; border-bottom: none;"></h2>
+
+    
 ## Me acompanhe👍
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-ba6678297/)
 
@@ -11,12 +19,10 @@ Eu sou o **Luquinhas!**
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira09&layout=compact&title_color=E9E1E1FF&icon_color=00CFF7FF&text_color=c9d1d9&bg_color=0d1117&">
 </div>
 
-###
-Apaixonado por Tecnologia e Matemática!
+### Apaixonado por Tecnologia e Matemática!
 
+<h1 style="border-bottom: none;"></h2>
 
-## O que eu faço?
-Desenvolvo aplicativos para Android!
 
 
 ## Minhas Habilidades:
