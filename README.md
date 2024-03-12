@@ -1,6 +1,6 @@
 
 <div align="center">  
-<h2 style="text-align: center; border-bottom: none;"> Hello!😀 Eu sou o Luquinhas!</h2>
+<h2 style="text-align: center; border-bottom: none;"> Hello!😀 Eu sou o Luquinha!</h2>
 <h2 style="border-bottom: none;"></h2>
 </div>   
 
