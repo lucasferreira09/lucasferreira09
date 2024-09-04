@@ -4,7 +4,7 @@
 <h2 style="border-bottom: none;"></h2>
 </div>   
 
-<h3>Desenvolvo Aplicativos Android! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+<h3>Desenvolvedor Mobile em Processo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
             height="25" 
             width="25"/>
             
