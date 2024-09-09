@@ -11,7 +11,6 @@
 <h2 style="text-align: center; border-bottom: none;"></h2>
 
     
-## Me acompanhe👍
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-ba6678297/)
 
 <div align="center">  
