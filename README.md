@@ -4,9 +4,7 @@
 <h2 style="border-bottom: none;"></h2>
 </div>   
 
-<h3>Estudante de Desenvolvimento Mobile <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-            height="25" 
-            width="25"/>
+<h3>📲Desenvolvedor Mobile Estudante
             
 <h2 style="text-align: center; border-bottom: none;"></h2>
 
