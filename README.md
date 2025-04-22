@@ -4,12 +4,11 @@
 <h2 style="border-bottom: none;"></h2>
 </div>   
 
-<h3>📲Desenvolvedor Mobile Estudante
+<h3>📲Desenvolvedor Mobile estudante
             
 <h2 style="text-align: center; border-bottom: none;"></h2>
 
-    
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-ba6678297/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasferreira09/)
 
 <div align="center">  
 
@@ -17,13 +16,13 @@
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira09&layout=compact&title_color=E9E1E1FF&icon_color=00CFF7FF&text_color=c9d1d9&bg_color=0d1117&">
 </div>
 
-### Apaixonado por Tecnologia e Matemática!
+### Fascinado por tecnologia!
 
 <h1 style="border-bottom: none;"></h2>
 
 
 
-## 🧑🏻‍💻Tecnologias que Uso:
+## 🧑🏻‍💻Tecnologias que uso:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
