@@ -1,8 +1,9 @@
 
 <div align="center">  
-<h2 style="text-align: center; border-bottom: none;"> Hello!😀</h2>
-<h2 style="border-bottom: none;"></h2>
+<h2 style="text-align: center; border-bottom: none;"> Hey, eu sou Lucas!😀</h2>
 </div>   
+
+#
 
 <h3>📲Desenvolvedor Mobile estudante
             
@@ -16,18 +17,17 @@
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreira09&layout=compact&title_color=E9E1E1FF&icon_color=00CFF7FF&text_color=c9d1d9&bg_color=0d1117&">
 </div>
 
-### Fascinado por tecnologia!
+### 😍Fascinado por tecnologia!
 
 <h1 style="border-bottom: none;"></h2>
 
-
-
-## 🧑🏻‍💻Tecnologias que uso:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Android-Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+## 🧑🏻‍💻Tecnologias que uso: 
+<div>
+            <img alt="Java" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+            <img alt="Kotlin" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;
+            <img alt="IntelliJ" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&nbsp;&nbsp;
+            <img alt="Eclipse" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />&nbsp;&nbsp;
+            <img alt="Adroid-Studio" heigh="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />              
+</div>
 
 
