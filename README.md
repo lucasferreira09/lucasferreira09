@@ -27,10 +27,9 @@
 ## 🧑🏻‍💻Technologies I'm using: 
 <div>
             <img alt="Java" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-            <img alt="Kotlin" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;
+            <img alt="Spring" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
             <img alt="IntelliJ" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&nbsp;&nbsp;
-            <img alt="Eclipse" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />&nbsp;&nbsp;
-            <img alt="Adroid-Studio" heigh="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />              
+            <img alt="Kotlin" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;
 </div>
 
 
