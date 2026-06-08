@@ -1,11 +1,11 @@
 
 <div align="center">  
-<h2 style="text-align: center; border-bottom: none;"> Hey, my name's Lucas!😀</h2>
+<h2 style="text-align: center; border-bottom: none;"> Hey, I'm Lucas!😀</h2>
 </div>   
 
 #
 
-<h3>📲Pursuing a career as a Mobile Developer and improving my English proficiency!
+<h3>📲Pursuing a career as a Software Developer and improving my English proficiency.
             
 <h2 style="text-align: center; border-bottom: none;"></h2>
 
