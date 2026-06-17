@@ -47,6 +47,6 @@ Construindo projetos próprios para aprimorar minhas habilidades e adquirir expe
 ## lucasferreira09 (Lucas Ferreira)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=tokyonight&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreira09&theme=tokyonight" alt="Lucas's Streak Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=tokyonight&count_private=true" alt="Lucas's GitHub Stats" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreira09&theme=tokyonight" alt="Lucas's Streak Stats" height="165px" />
 </p>
