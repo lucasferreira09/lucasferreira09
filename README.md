@@ -1,35 +1,52 @@
 
-<div align="center">  
-<h2 style="text-align: center; border-bottom: none;"> Hey, I'm Lucas!😀</h2>
-</div>   
-
-#
-
-<h3>📲Pursuing a career as a Software Developer and improving my English proficiency.
+<h1 align="center">Hello, friend👋 Eu sou o Lucas!</h1>
+<div align="center">
             
-<h2 style="text-align: center; border-bottom: none;"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial+black&weight=900&size=25&duration=2000&pause=3000&color=F7C500&center=true&width=435&lines=Desenvolvedor+Backend+Java%E2%98%95)](https://git.io/typing-svg)
+
+</div>
+
+ 
+###
 
 
-<div align="start">
-            <a href="https://www.linkedin.com/in/lucasferreira09/">
-                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-                                    width="65" />
-            </a>
+
+
+###
+<h2 align="left">Sobre mim</h2>
+
+Construindo projetos próprios para aprimorar minhas habilidades e adquirir experiência prática. Sempre buscando estruturar sistemas de forma semelhante ao que encontramos em aplicações utilizadas no mercado. Sou uma pessoa que gosta de aprender, resolver problemas e evoluir continuamente como desenvolvedor. 
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasferreira09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0e76a8&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:luquinhas.fe22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=F5AC00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+## 👨‍💻Tecnologias
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
 </div>
 
 #
 
+## lucasferreira09 (Lucas Ferreira)
 
-
-### 😍Crazy for tech!
-<h1 style="border-bottom: none;"></h2>
-
-## 🧑🏻‍💻Technologies I'm using: 
-<div>
-            <img alt="Java" heigh="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-            <img alt="Spring" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-            <img alt="IntelliJ" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&nbsp;&nbsp;
-            <img alt="Kotlin" heigh="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;&nbsp;
-</div>
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasferreira09&show_icons=true&theme=tokyonight&count_private=true" alt="Lucas's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasferreira09&theme=tokyonight" alt="Lucas's Streak Stats" height="180px" />
+</p>
