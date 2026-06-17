@@ -15,7 +15,7 @@
 ###
 <h2 align="left">Sobre mim</h2>
 
-Construindo projetos próprios para aprimorar minhas habilidades e adquirir experiência prática. Sempre buscando estruturar sistemas de forma semelhante ao que encontramos em aplicações utilizadas no mercado. Sou uma pessoa que gosta de aprender, resolver problemas e evoluir continuamente como desenvolvedor. 
+Amante de desenvolvimento de software e da tecnologia. Construindo projetos próprios para aprimorar minhas habilidades e adquirir experiência prática. Sempre buscando estruturar sistemas de forma semelhante ao que encontramos em aplicações utilizadas no mercado. Sou uma pessoa que gosta de aprender, resolver problemas e evoluir continuamente como desenvolvedor. 
 </p>
 
 <div align="center">
